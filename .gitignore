@@ -1,4 +1,7 @@
-## Exclude venv folder
+# data
+images/
+
+# Exclude venv folder
 venv/
 
 ## Exclude compiled Python files and caches
