@@ -43,3 +43,8 @@ venv\Scripts\activate
 ```
 pip install -r requirements.txt
 ```
+
+## Dependencies and tools used
+CLI tool: [Click](https://click.palletsprojects.com/en/stable/)
+
+Code formatting: [Black](https://github.com/psf/black)
