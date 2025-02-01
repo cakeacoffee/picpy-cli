@@ -1,4 +1,9 @@
 # picpy-cli
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![CLI](https://img.shields.io/badge/Click__-white?style=for-the-badge&logo=python&logoColor=black)
+![Black](https://img.shields.io/badge/Black-000000?style=for-the-badge&logo=python&logoColor=white)
+
 A command-line tool for automating image processing tasks like resizing, format conversion, quality adjustment, and batch operations. Built with Python.
 
 ## Features/TODO:
