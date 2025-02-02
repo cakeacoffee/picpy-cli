@@ -42,6 +42,4 @@ def file_size(
     input_path: str = "images/input",
 ) -> str:
     """get size for each file and display and return result"""
-    result = ""
-    # TODO: implement
-    return result
+    return os.stat(input_path).st_size
